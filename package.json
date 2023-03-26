@@ -1,0 +1,19 @@
+{
+  "name": "creating-1st-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamgupta22/Creating-1st-Server.git"
+  },
+  "author": "pratham gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathamgupta22/Creating-1st-Server/issues"
+  },
+  "homepage": "https://github.com/prathamgupta22/Creating-1st-Server#readme"
+}
